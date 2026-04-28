@@ -30,5 +30,9 @@ Role: Research on Star Schema and create a warehouse_schema.md describing a Star
 Member 4: Daisy Gitonga
 Role: Research on ETL, ELT, EtLT and create a data_pipeline.md file differentiating between ETL, ELT, and EtLT in the context of compliance with the legal requirements in an industry.
 
+Member 5: Austin Namayi
+Role: Research on data governance and add a governance.md file reviewing data governance and access to PII.
+
+Project lead: Member 5 - responible for governance and audit.
 Member 5: Kimberly Ondari
 Role: Research on data governance and add a governance.md file reviewing data governance and access to PII.
