@@ -32,3 +32,5 @@ Role: Research on ETL, ELT, EtLT and create a data_pipeline.md file differentiat
 
 Member 5: Kimberly Ondari
 Role: Research on data governance and add a governance.md file reviewing data governance and access to PII.
+
+Project lead: Member 4 — responsible for overall coordination."
