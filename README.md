@@ -24,7 +24,7 @@ Role: Update README.md file with team roles.
 Member 2: Emma Karanja
 Role: Research on data sources and create a data_source.md file reviewing sources of data in a business.
 
-Member 3: Kimberly Ondari
+Member 3: Austine Namayi
 Role: Research on Star Schema and create a warehouse_schema.md describing a Star Schema.
 
 Member 4: Daisy Gitonga
@@ -34,3 +34,5 @@ Member 5: Austin Namayi
 Role: Research on data governance and add a governance.md file reviewing data governance and access to PII.
 
 Project lead: Member 5 - responible for governance and audit.
+Member 5: Kimberly Ondari
+Role: Research on data governance and add a governance.md file reviewing data governance and access to PII.
