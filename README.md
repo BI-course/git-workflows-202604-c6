@@ -34,5 +34,6 @@ Member 5: Austin Namayi
 Role: Research on data governance and add a governance.md file reviewing data governance and access to PII.
 
 Project lead: Member 5 - responible for governance and audit.
-Member 5: Kimberly Ondari
+
+Member 5: Maureen Waweru
 Role: Research on data governance and add a governance.md file reviewing data governance and access to PII.
